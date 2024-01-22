@@ -11,7 +11,7 @@ public class LogicalOperator {
 		int b=s.nextInt();
 		System.out.println(a==3 && b>a);
 		System.out.println(a==3 || b>a);
-		System.out.println(!(a<=b)2);
+		System.out.println(!(a<=b));
 
 	}
 
